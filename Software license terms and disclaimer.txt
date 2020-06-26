@@ -1,0 +1,17 @@
+Software license terms and disclaimer
+
+1.The copyright of this software belongs to the software authors. All software and materials in this software package are provided by the software authors. This software is distributed as a free software, but any organization or individual shall not be allowed to use the software for any purpose.
+
+2.The authors of the software will not be responsible for any accident, negligence, defamation or any losses caused by the use of the software, nor will the authors be liable for any civil or criminal liability.
+
+3.The first time you start to use any software and resources provided by this software or the authors, it will be regarded as the recognition of all the items of this statement. At the same time, you must accept the above items before using the software and resources. In case of any objection, it is recommended to immediately delete the software and resources and stop using them.
+
+4.The authors of this software reserve the right of final interpretation for the above contents.
+
+
+软件许可条款及免责申明
+
+1、本软件的著作权归软件作者所有。本软件提供的所有软件和资料均为软件作者提供，任何个人及单位机构不得用于任何商业用途。
+2、因使用本软件而导致的任何意外、疏忽、诽谤、及其所造成的任何损失，软件开发者概不负责，亦概不承担任何民事或刑事法律责任。
+3、当你第一次开始使用软件开发者所提供的任何软件及资源的那一刻起就将被视为对本声明全部内容的认可。同时您必须认可上述软件许可条款及免责申明，方可使用本软件及资源。如有任何异议，建议立刻删除本软件及资源并且停止使用。
+4、以上内容，软件开发者保留最终解释权。
